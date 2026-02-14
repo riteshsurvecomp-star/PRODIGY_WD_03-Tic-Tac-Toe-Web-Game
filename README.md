@@ -13,10 +13,15 @@ A simple browser-based stopwatch that supports **start, pause, lap, and reset** 
 ## ✨ Features
 
 ✔ Start / Stop timer
+
 ✔ Pause / Resume timing
+
 ✔ Lap time recording
+
 ✔ Reset stopwatch
+
 ✔ Minutes : Seconds : Milliseconds display
+
 ✔ Responsive glassmorphism UI
 
 ---
